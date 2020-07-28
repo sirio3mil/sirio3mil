@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
 
 <img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
