@@ -1,19 +1,34 @@
-### Hi there 👋
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial and https://github.com/paulrobertlloyd/socialmediaicons/ -->
 
-<!--
-**sirio3mil/sirio3mil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- display the social media buttons in your README -->
 
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-48x48.png
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png
+[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-48x48.png
+[4.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/wikipedia-48x48.png
+[5.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/creativecommons-48x48.png
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://stackoverflow.com/users/4609783/reynier
+[2]: https://www.linkedin.com/in/reynierdelarosa/
+[3]: https://es.slideshare.net/sirio3mil
+[4]: https://es.wikipedia.org/wiki/Especial:Contribuciones/Sirio3mil
+[5]: https://creativecommons.org/
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
 
