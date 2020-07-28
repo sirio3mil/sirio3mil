@@ -21,4 +21,5 @@ jobs:
       with:
         gh_token: ${{ github.token }}
         max_post_count: 10
+        readme_path: README.md
         feed_list: http://feeds.feedburner.com/ScriptInside
