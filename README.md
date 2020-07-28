@@ -37,9 +37,9 @@
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
-[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-24x24.png
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png
-[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-24x24.png
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-32x32.png
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png
+[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-32x32.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
