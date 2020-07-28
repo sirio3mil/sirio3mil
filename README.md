@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
+
+<img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial and https://github.com/paulrobertlloyd/socialmediaicons/ -->
 
 <!-- display the social media buttons in your README -->
@@ -28,10 +32,6 @@
 [5]: https://creativecommons.org/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
-
-<img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
