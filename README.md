@@ -35,4 +35,9 @@ Here are some ideas to get you started:
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by R2D3 for MySQL Incorrect datetime value: '0000-00-00 00:00:00'](https://stackoverflow.com/questions/35565128/mysql-incorrect-datetime-value-0000-00-00-000000/62444748#62444748)
+- [Answer by R2D3 for Calculate difference between 2 dates](https://stackoverflow.com/questions/60060338/calculate-difference-between-2-dates/60061116#60061116)
+- [Answer by R2D3 for jquery not working! I don't get whats the problem is](https://stackoverflow.com/questions/58715655/jquery-not-working-i-dont-get-whats-the-problem-is/58728995#58728995)
+- [Answer by R2D3 for Can't use ALIAS in delete statement in MARIA DB](https://stackoverflow.com/questions/58728419/cant-use-alias-in-delete-statement-in-maria-db/58728897#58728897)
+- [Answer by R2D3 for How to check the environment using the Symfony console tool?](https://stackoverflow.com/questions/42124483/how-to-check-the-environment-using-the-symfony-console-tool/58028783#58028783)
 <!-- STACKOVERFLOW:END -->
