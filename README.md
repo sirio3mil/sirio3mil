@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="left" src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
-
-<img align="left" src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
+<div>
+  <img align="left" src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
+</div>
+<div>
+  <img align="left" src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
+</div>
