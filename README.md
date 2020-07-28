@@ -2,31 +2,6 @@
 
 <img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial and https://github.com/paulrobertlloyd/socialmediaicons/ -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-48x48.png
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png
-[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-48x48.png
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://stackoverflow.com/users/4609783/reynier
-[2]: https://www.linkedin.com/in/reynierdelarosa/
-[3]: https://es.slideshare.net/sirio3mil
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Migrando zend expressive a mezzio](http://feedproxy.google.com/~r/ScriptInside/~3/PnpX21omYAo/migrando-zend-expressive-mezzio.html)
@@ -49,3 +24,28 @@
 - [Can't use ALIAS in delete statement in MARIA DB](https://stackoverflow.com/questions/58728419/cant-use-alias-in-delete-statement-in-maria-db/58728897#58728897)
 - [How to check the environment using the Symfony console tool?](https://stackoverflow.com/questions/42124483/how-to-check-the-environment-using-the-symfony-console-tool/58028783#58028783)
 <!-- STACKOVERFLOW:END -->
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial and https://github.com/paulrobertlloyd/socialmediaicons/ -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-16x16.png
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png
+[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-16x16.png
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://stackoverflow.com/users/4609783/reynier
+[2]: https://www.linkedin.com/in/reynierdelarosa/
+[3]: https://es.slideshare.net/sirio3mil
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
