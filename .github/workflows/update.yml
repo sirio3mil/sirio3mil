@@ -1,6 +1,8 @@
 name: Update blog post
 
 on:
+  push:
+  workflow_dispatch:
   schedule:
     - cron:  '5 1 * * *'
 
