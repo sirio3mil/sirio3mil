@@ -9,8 +9,6 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
 
 
 <!-- links to social media icons -->
@@ -19,8 +17,6 @@
 [1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/stackoverflow-48x48.png
 [2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png
 [3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/slideshare-48x48.png
-[4.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/wikipedia-48x48.png
-[5.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/creativecommons-48x48.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -28,8 +24,6 @@
 [1]: https://stackoverflow.com/users/4609783/reynier
 [2]: https://www.linkedin.com/in/reynierdelarosa/
 [3]: https://es.slideshare.net/sirio3mil
-[4]: https://es.wikipedia.org/wiki/Especial:Contribuciones/Sirio3mil
-[5]: https://creativecommons.org/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
