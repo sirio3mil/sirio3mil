@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=default" alt="Reynier's github stats" />
+<img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=dracula" alt="Reynier's github stats" />
 
-<img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=default" />
+<img src="https://github-readme-stats.sirio3mil.vercel.app/api/top-langs/?username=sirio3mil&theme=dracula" />
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
