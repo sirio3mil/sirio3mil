@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.sirio3mil.vercel.app/api?username=sirio3mil&show_icons=true&include_all_commits=true&theme=dark" alt="Reynier's github stats" />
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Instalar llnode en macOS Big Sur](http://feedproxy.google.com/~r/ScriptInside/~3/4vtEJ6yw_6k/instalar-llnode-en-macos-big-sur.html)
