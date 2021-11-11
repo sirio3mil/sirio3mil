@@ -1,15 +1,15 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instalar llnode en macOS Big Sur](http://feedproxy.google.com/~r/ScriptInside/~3/4vtEJ6yw_6k/instalar-llnode-en-macos-big-sur.html)
-- [Migrando zend expressive a mezzio](http://feedproxy.google.com/~r/ScriptInside/~3/PnpX21omYAo/migrando-zend-expressive-mezzio.html)
-- [CentOS 8 ahora viene con DNF](http://feedproxy.google.com/~r/ScriptInside/~3/mrW7Vy1RdEY/centos-8-ahora-viene-con-dnf.html)
-- [SQL Server, columnas calculadas](http://feedproxy.google.com/~r/ScriptInside/~3/0_pfeclJ1ek/sql-server-columnas-calculadas.html)
-- [Ciclos de lanzamiento en PHP, curiosidades](http://feedproxy.google.com/~r/ScriptInside/~3/3l5ZRZCYRXk/ciclos-de-lanzamiento-en-php.html)
-- [Instalar libreria PHP image magick en MacOS Catalina](http://feedproxy.google.com/~r/ScriptInside/~3/lw6JlJ4tUR0/instalar-libreria-php-image-magick-en.html)
-- [Instalar librería memcached para PHP en MacOS Catalina](http://feedproxy.google.com/~r/ScriptInside/~3/WiZhQvEQ_1Q/instalar-libreria-memcached-para-php-en.html)
-- [SQL Server schemabinding](http://feedproxy.google.com/~r/ScriptInside/~3/TAVqj3e5t1M/sql-server-schemabinding.html)
-- [Instalar PHP 7.4+ en MacOS Catalina 10.15+](http://feedproxy.google.com/~r/ScriptInside/~3/oNMo8gQI24c/instalar-php-74-en-macos-catalina-1015.html)
-- [Actualizar a PHP 7.3+ en MacOS Mojave 10.14+](http://feedproxy.google.com/~r/ScriptInside/~3/hyfbR5kY6jE/actualizar-php-73-en-macos-mojave-1014.html)
+- [Instalar llnode en macOS Big Sur](http://scriptinside.blogspot.com/2021/04/instalar-llnode-en-macos-big-sur.html)
+- [Migrando zend expressive a mezzio](http://scriptinside.blogspot.com/2020/04/migrando-zend-expressive-mezzio.html)
+- [CentOS 8 ahora viene con DNF](http://scriptinside.blogspot.com/2020/02/centos-8-ahora-viene-con-dnf.html)
+- [SQL Server, columnas calculadas](http://scriptinside.blogspot.com/2020/02/sql-server-columnas-calculadas.html)
+- [Ciclos de lanzamiento en PHP, curiosidades](http://scriptinside.blogspot.com/2020/02/ciclos-de-lanzamiento-en-php.html)
+- [Instalar libreria PHP image magick en MacOS Catalina](http://scriptinside.blogspot.com/2020/02/instalar-libreria-php-image-magick-en.html)
+- [Instalar librería memcached para PHP en MacOS Catalina](http://scriptinside.blogspot.com/2020/02/instalar-libreria-memcached-para-php-en.html)
+- [SQL Server schemabinding](http://scriptinside.blogspot.com/2020/02/sql-server-schemabinding.html)
+- [Instalar PHP 7.4+ en MacOS Catalina 10.15+](http://scriptinside.blogspot.com/2020/02/instalar-php-74-en-macos-catalina-1015.html)
+- [Actualizar a PHP 7.3+ en MacOS Mojave 10.14+](http://scriptinside.blogspot.com/2019/07/actualizar-php-73-en-macos-mojave-1014.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
